@@ -1,1 +1,1 @@
-print("Hello world! This is a sample Python script.")
+print("Hello wold! This is a sample Python script.")
